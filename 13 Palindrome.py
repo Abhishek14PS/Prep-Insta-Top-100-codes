@@ -9,4 +9,3 @@ if original == reverse:
     print("palindrome")
 else:
     print("not")
-    

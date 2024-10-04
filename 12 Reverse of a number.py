@@ -5,4 +5,3 @@ while n > 0:
     reverse = reverse * 10 + digit
     n //= 10
 print(reverse)
-    
